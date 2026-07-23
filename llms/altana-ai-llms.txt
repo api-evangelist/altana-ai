@@ -1,0 +1,64 @@
+# Altana: The AI-Powered Network for Trusted Trade
+
+> Altana's AI-powered network empowers governments and businesses to build a more resilient and secure global economy while keeping trade flowing. Our mission: fix globalization.
+
+Fragility, mistrust, and geopolitics have brought the free trade era to an end. Now, in a new era of geopolitical competition and trade wars, trade and supply chain networks are prone to constant disruption. The changing economic landscape requires a new global trade architecture built on trusted networks.
+
+Altana connects the world's largest logistics providers, businesses, and their suppliers with government agencies like US Customs and Border Protection around a shared source of product information. Businesses connect to Altana to automate and navigate global trade and tariff complexity, and to build supply chain resilience. Government agencies connect to Altana to design and enforce trade and economic security policies.
+
+## Platform
+
+- [Altana Platform](https://altana.ai/platform): AI-powered network for trusted trade, product passports, and the world's largest knowledge graph of the global supply chain
+- [Product Passports](https://altana.ai/solutions/country-of-origin-mapping-tool): Digital identifier for products that allows stakeholders to illuminate, trace, and manage the extended network of production, from finished goods down to raw materials
+- [How It Works](https://altana.ai/how-it-works): How Altana maps the world's supply chains using AI and trusted data collaboration to deliver visibility, risk management, and confident action
+- [Request a Demo](https://altana.ai/request-a-demo): Get started with Altana
+
+## Solutions for Enterprises
+
+- [Trade and Tariffs](https://altana.ai/solutions/trade-and-tariffs): Automate and navigate global trade and tariff complexity
+- [Sourcing and Procurement](https://altana.ai/solutions/sourcing-and-procurement): Find and vet suppliers with full supply chain visibility
+- [Supplier Management](https://altana.ai/solutions/supplier-management-platform): Manage and monitor suppliers across your value chain
+- [Supplier Screening](https://altana.ai/solutions/supplier-screening-platform): Screen suppliers for sanctions, forced labor, and other risks
+- [Supply Chain Risk](https://altana.ai/solutions/supply-chain-risk-platform): Identify and mitigate risk across extended supply chain networks
+- [Regulatory Compliance](https://altana.ai/solutions/regulatory-compliance-platform): Comply with UFLPA, EUDR, Section 889, and other regulations
+- [Trade Compliance](https://altana.ai/solutions/trade-compliance-platform): Automate trade compliance with classification, screening, and audit
+- [Resilience](https://altana.ai/solutions/resilience): Build supply chain resilience against disruption
+- [Automotive](https://altana.ai/solutions/automotive): N-tier visibility for automotive — AIAG forced-labor reporting, tariff exposure, EV batteries, and connected vehicles from one source of truth
+
+## Solutions by Sector
+
+- [For Enterprises](https://altana.ai/solutions/for-enterprises): Supply chain visibility, compliance, and risk management for global businesses
+- [For Government](https://altana.ai/solutions/for-government): Trade policy enforcement, threat detection, and economic security
+- [For Logistics](https://altana.ai/solutions/for-logistics): Data-driven insights for logistics providers
+- [For Suppliers](https://altana.ai/solutions/for-suppliers): Tools for suppliers to demonstrate compliance and build trust
+
+## Company
+
+- [About Altana](https://altana.ai/about): Our mission, values, leadership, and impact
+- [Careers](https://altana.ai/careers): Join the team building the network for trusted trade
+- [Privacy Policy](https://altana.ai/privacy-policy): How Altana handles data and privacy
+
+## Key Outcomes and Impact
+
+- 2,500+ US Customs and Border Protection agents use Altana daily
+- $300M+ average duty savings identified for importers
+- 8X faster customs processes achieved with Altana
+- Used by government agencies in the US, UK, Australia, Singapore, and allied nations to detect threats including forced labor, narcotics trafficking, and export control violations
+
+## Key Terms
+
+- Product Passport: The digital system of record for a product's journey from raw materials to finished goods
+- Knowledge Graph: Altana's proprietary map of the global supply chain, built from shipment and product information contributed by logistics providers and businesses
+- Global Trade Architecture: The new framework for trusted, resilient trade in an era of geopolitical competition
+- Value Chain: The complete supply chain from raw materials to end consumer
+
+## Optional
+
+- [Resources](https://altana.ai/resources): Blog posts, case studies, webinars, and guides on supply chain intelligence, trade compliance, and tariff analysis
+- [Compliance Solutions](https://altana.ai/solutions/compliance): Overview of Altana's compliance capabilities
+- [Counternarcotics](https://altana.ai/solutions/counternarcotics): Detecting and disrupting narcotics trafficking through supply chain analysis
+<!-- provenance
+generated: '2026-07-17'
+method: searched
+source: https://altana.ai/llms.txt (HTTP 200, fetched verbatim 2026-07-17)
+-->

@@ -1,0 +1,16 @@
+generated: '2026-07-17'
+method: searched
+host: https://altana.ai
+# All /.well-known/ discovery endpoints probed 2026-07-17; none present (all 404).
+# Absence is valid, expected data for a demo-gated enterprise platform.
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404

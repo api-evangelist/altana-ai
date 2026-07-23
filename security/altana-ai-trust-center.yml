@@ -1,0 +1,29 @@
+generated: '2026-07-17'
+method: searched
+probe: true
+source: https://trust.altana.ai/
+url: https://trust.altana.ai/
+resources: https://trust.altana.ai/resources
+# Altana operates in sensitive government/intelligence and enterprise environments;
+# certifications below are published on the Altana Trust Center and compliance pages.
+certifications:
+- FedRAMP High
+- SOC 2
+- ISO/IEC 27001
+- IRAP
+- IC C2E
+- ACSC Essential Eight
+- Cyber Essentials
+- Cyber Essentials Plus
+in_process:
+- DoW IL5
+evidence:
+- source: https://trust.altana.ai/
+  keywords: [trust center, security, compliance]
+- source: https://altana.ai/solutions/compliance
+  keywords: [fedramp high, iso 27001, soc 2, irap]
+notes: >-
+  Trust Center is a JavaScript-rendered portal (keyword body-probe could not verify
+  headlessly); certifications confirmed via Altana public compliance content and
+  Trust Center search index. Data-security model is federated learning (customer
+  data in a dedicated spoke, aggregated insight back to a central hub).

@@ -1,7 +1,17 @@
 aid: altana-ai
 name: Altana AI
-description: 'Altana AI is a company surfaced as a portfolio company of gv and added to the API Evangelist
-  network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment pipeline.'
+description: >-
+  Altana is an AI-powered network for trusted trade, operating the world's largest
+  knowledge graph of the global supply chain — a map covering roughly half of global
+  trade and 600M+ companies, built from shipment and product information contributed
+  by logistics providers and businesses. Altana connects enterprises, logistics
+  providers, suppliers, and government agencies (including US Customs and Border
+  Protection) around a shared source of product truth, delivered as Product Passports
+  and the Atlas knowledge graph. Its solutions span trade and tariffs, sourcing and
+  procurement, supplier management and screening, supply chain risk, regulatory
+  compliance (UFLPA, EUDR, Section 889), and trade compliance. The Atlas Graph API
+  (customer-provisioned, HMAC-signed API keys) exposes advanced searches across the
+  Atlas knowledge graph, including notebook-based analysis in Databricks.
 url: https://raw.githubusercontent.com/api-evangelist/altana-ai/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,12 +19,32 @@ x-backed-by:
 - gv
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
 modified: '2026-07-17'
+image: https://cdn.sanity.io/images/izvqcpbx/production/5b4cdb616cf439133ed92cc4800df234d362f339-1200x600.png
 tags:
 - Company
 - Ai
+- Supply Chain
+- Trade Compliance
+- Supply Chain Intelligence
+- Knowledge Graph
+- Risk Management
+- Government
+- Sourcing And Procurement
+- Value Chain
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,4 +53,32 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://altana.ai
+  url: https://altana.ai
+- type: Platform
+  url: https://altana.ai/platform
+- type: Blog
+  url: https://altana.ai/resources
+- type: SignUp
+  url: https://altana.ai/request-a-demo
+- type: TermsOfService
+  url: https://altana.ai/legal
+- type: PrivacyPolicy
+  url: https://altana.ai/legal
+- type: TrustCenter
+  url: https://trust.altana.ai/
+- type: Compliance
+  url: https://trust.altana.ai/
+- type: LLMsTxt
+  url: llms/altana-ai-llms.txt
+- type: WellKnown
+  url: well-known/altana-ai-well-known.yml
+- type: DomainSecurity
+  url: security/altana-ai-domain-security.yml
+- type: TrustCenter
+  name: Altana Trust Center (artifact)
+  url: security/altana-ai-trust-center.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
